@@ -1,0 +1,76 @@
+Dish_ID,Dish_name,Price,Warm,Category_ID,dish_description,dish_type,main_dish_type
+1,Sushi Roll 1,13.37,False,2,Fusion-style sushi roll with unique ingredients 1,fish,sushi
+2,Sushi Roll 2,13.83,False,2,Fusion-style sushi roll with unique ingredients 2,fish,sushi
+3,Sushi Roll 3,8.23,False,2,Fusion-style sushi roll with unique ingredients 3,fish,sushi
+4,Sushi Roll 4,11.46,False,2,Fusion-style sushi roll with unique ingredients 4,fish,sushi
+5,Sushi Roll 5,9.54,False,2,Fusion-style sushi roll with unique ingredients 5,vegetarian,sushi
+6,Sushi Roll 6,12.61,False,2,Fusion-style sushi roll with unique ingredients 6,fish,sushi
+7,Sushi Roll 7,10.45,False,2,Fusion-style sushi roll with unique ingredients 7,fish,sushi
+8,Sushi Roll 8,9.37,False,2,Fusion-style sushi roll with unique ingredients 8,vegetarian,sushi
+9,Sushi Roll 9,9.46,False,2,Fusion-style sushi roll with unique ingredients 9,vegetarian,sushi
+10,Sushi Roll 10,13.78,False,2,Fusion-style sushi roll with unique ingredients 0,vegetarian,sushi
+11,Sushi Roll 11,9.92,False,2,Fusion-style sushi roll with unique ingredients 1,vegetarian,sushi
+12,Sushi Roll 12,8.72,False,2,Fusion-style sushi roll with unique ingredients 2,fish,sushi
+13,Sushi Roll 13,11.29,False,2,Fusion-style sushi roll with unique ingredients 3,fish,sushi
+14,Sushi Roll 14,12.9,False,2,Fusion-style sushi roll with unique ingredients 4,fish,sushi
+15,Sushi Roll 15,9.15,False,2,Fusion-style sushi roll with unique ingredients 5,fish,sushi
+16,Sushi Roll 16,8.45,False,2,Fusion-style sushi roll with unique ingredients 6,vegetarian,sushi
+17,Sushi Roll 17,7.92,False,2,Fusion-style sushi roll with unique ingredients 7,fish,sushi
+18,Sushi Roll 18,9.68,False,2,Fusion-style sushi roll with unique ingredients 8,vegetarian,sushi
+19,Sushi Roll 19,8.53,False,2,Fusion-style sushi roll with unique ingredients 9,fish,sushi
+20,Sushi Roll 20,8.23,False,2,Fusion-style sushi roll with unique ingredients 0,vegetarian,sushi
+21,Red Thai Curry,13.07,True,2,Red Thai Curry – Asian fusion main dish,meat,rice
+22,Green Thai Curry,15.29,True,2,Green Thai Curry – Asian fusion main dish,vegan,rice
+23,Pho Bo,11.18,True,2,Pho Bo – Asian fusion main dish,meat,soup
+24,Pho Chay,12.77,True,2,Pho Chay – Asian fusion main dish,vegan,soup
+25,Pad Thai,12.39,True,2,Pad Thai – Asian fusion main dish,vegetarian,noodle
+26,Yaki Udon,13.79,True,2,Yaki Udon – Asian fusion main dish,meat,noodle
+27,Bibimbap,12.74,True,2,Bibimbap – Asian fusion main dish,vegetarian,rice
+28,Khao Pad,14.6,True,2,Khao Pad – Asian fusion main dish,meat,rice
+29,Kimchi Stew,12.52,True,2,Kimchi Stew – Asian fusion main dish,fish,soup
+30,Tofu Teriyaki Bowl,13.95,True,2,Tofu Teriyaki Bowl – Asian fusion main dish,vegan,rice
+31,Edamame,5.52,False,1,Edamame – popular starter,vegan,
+32,Spring Rolls,5.93,True,1,Spring Rolls – popular starter,vegetarian,
+33,Gyoza (Veggie),7.12,True,1,Gyoza (Veggie) – popular starter,vegetarian,
+34,Gyoza (Chicken),4.3,True,1,Gyoza (Chicken) – popular starter,meat,
+35,Seaweed Salad,5.38,False,1,Seaweed Salad – popular starter,vegan,
+36,Miso Soup,6.33,True,1,Miso Soup – popular starter,vegan,
+37,Kimchi,6.65,False,1,Kimchi – popular starter,vegan,
+38,Chicken Satay,4.69,True,1,Chicken Satay – popular starter,meat,
+39,Tempura Veggies,7.17,True,1,Tempura Veggies – popular starter,vegetarian,
+40,Shrimp Chips,7.41,False,1,Shrimp Chips – popular starter,fish,
+41,Mango Sticky Rice,4.68,False,3,Mango Sticky Rice – Asian dessert,vegan,
+42,Matcha Ice Cream,4.76,False,3,Matcha Ice Cream – Asian dessert,vegetarian,
+43,Coconut Jelly,5.27,False,3,Coconut Jelly – Asian dessert,vegan,
+44,Fried Banana,4.07,False,3,Fried Banana – Asian dessert,vegetarian,
+45,Black Sesame Mochi,6.49,False,3,Black Sesame Mochi – Asian dessert,vegan,
+46,Sake,4.2,False,4,Sake – Asian alcoholic beverage,,
+47,Plum Wine,4.4,False,4,Plum Wine – Asian alcoholic beverage,,
+48,Asahi Beer,5.82,False,4,Asahi Beer – Asian alcoholic beverage,,
+49,Tiger Beer,4.2,False,4,Tiger Beer – Asian alcoholic beverage,,
+50,Soju,5.98,False,4,Soju – Asian alcoholic beverage,,
+51,Choya,6.22,False,4,Choya – Asian alcoholic beverage,,
+52,Yuzu Spritz,4.27,False,4,Yuzu Spritz – Asian alcoholic beverage,,
+53,Lychee Martini,5.15,False,4,Lychee Martini – Asian alcoholic beverage,,
+54,Sake Mojito,5.45,False,4,Sake Mojito – Asian alcoholic beverage,,
+55,Asian Mule,5.63,False,4,Asian Mule – Asian alcoholic beverage,,
+56,Umeshu Soda,5.22,False,4,Umeshu Soda – Asian alcoholic beverage,,
+57,Tsingtao,4.26,False,4,Tsingtao – Asian alcoholic beverage,,
+58,Sakura Fizz,4.9,False,4,Sakura Fizz – Asian alcoholic beverage,,
+59,Shiso Sour,5.12,False,4,Shiso Sour – Asian alcoholic beverage,,
+60,Red Rice Beer,6.24,False,4,Red Rice Beer – Asian alcoholic beverage,,
+61,Jasmine Tea,3.57,False,5,Jasmine Tea – Asian non-alcoholic drink,,
+62,Matcha Latte,2.77,True,5,Matcha Latte – Asian non-alcoholic drink,,
+63,Thai Iced Tea,2.91,True,5,Thai Iced Tea – Asian non-alcoholic drink,,
+64,Lemongrass Iced Tea,3.81,True,5,Lemongrass Iced Tea – Asian non-alcoholic drink,,
+65,Coconut Water,4.93,False,5,Coconut Water – Asian non-alcoholic drink,,
+66,Lychee Juice,2.54,True,5,Lychee Juice – Asian non-alcoholic drink,,
+67,Yuzu Lemonade,3.88,True,5,Yuzu Lemonade – Asian non-alcoholic drink,,
+68,Iced Genmaicha,3.71,True,5,Iced Genmaicha – Asian non-alcoholic drink,,
+69,Mango Lassi,3.35,True,5,Mango Lassi – Asian non-alcoholic drink,,
+70,Plum Juice,4.77,False,5,Plum Juice – Asian non-alcoholic drink,,
+71,Ramune,2.88,True,5,Ramune – Asian non-alcoholic drink,,
+72,Sparkling Yuzu Water,2.82,True,5,Sparkling Yuzu Water – Asian non-alcoholic drink,,
+73,Water,4.95,False,5,Water – Asian non-alcoholic drink,,
+74,Green Tea,4.0,False,5,Green Tea – Asian non-alcoholic drink,,
+75,Soy Milk Shake,3.35,True,5,Soy Milk Shake – Asian non-alcoholic drink,,
