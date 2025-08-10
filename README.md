@@ -94,11 +94,15 @@ Die Analyse lieferte konkrete Empfehlungen für:
 
 ## 📁 Projektstruktur
 
-restaurant-insights/
-│
-├── data/ → CSV-Dateien aller Tabellen
-├── sql/ → SQL-Skripte: Modell, Inserts, Queries
-├── powerbi/ → Power BI Dashboard (.pbix)
-├── visuals/ → Screenshots von Auswertungen
-├── README.md → Projektbeschreibung (diese Datei)
-└── restaurant_report.pdf → Vollständiger Projektbericht (optional)
+**SushiRestaurantAnalysis/**
+- ├── README.md
+- ├── data/
+- │ ├── raw/ # Originaldaten
+- │ ├── processed/ # Bereinigte CSVs
+- ├── scripts/
+- │ └── data_generation/ # Python-Skripte für Mockdaten
+- ├── sql/
+- │ └── schema/ # CREATE TABLE + Constraints
+- ├── reports/ # Analyseberichte
+- ├── dashboards/ # Power BI
+- └── docs/ # ERD, technische Doku
