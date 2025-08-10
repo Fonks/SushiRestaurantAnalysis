@@ -72,15 +72,15 @@ Beispielfragen:
 ---
 
 ## 🗂 Projektstruktur (GitHub)
-SushiRestaurantAnalysis/
-├── README.md
-├── data/
-│ ├── raw/ # Originaldaten
-│ ├── processed/ # Bereinigte CSVs
-├── scripts/
-│ └── data_generation/ # Python-Skripte für Mockdaten
-├── sql/
-│ └── schema/ # CREATE TABLE + Constraints
-├── reports/ # Analyseberichte
-├── dashboards/ # Power BI
-└── docs/ # ERD, technische Doku
+**SushiRestaurantAnalysis/**
+- ├── README.md
+- ├── data/
+- │ ├── raw/ # Originaldaten
+- │ ├── processed/ # Bereinigte CSVs
+- ├── scripts/
+- │ └── data_generation/ # Python-Skripte für Mockdaten
+- ├── sql/
+- │ └── schema/ # CREATE TABLE + Constraints
+- ├── reports/ # Analyseberichte
+- ├── dashboards/ # Power BI
+- └── docs/ # ERD, technische Doku
